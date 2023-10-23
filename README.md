@@ -1,3 +1,3 @@
 # odin-recipes
 
-A basic recipe website that demonstrates knowledge of basic HTML.
+A recipe website that demonstrates knowledge of basic HTML.
