@@ -1,0 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    width: 500px;
+    height: auto;
+    background-color: rgb(207, 255, 207);
+}
+
+.recipe-headings {
+    background-color: white;
+}
